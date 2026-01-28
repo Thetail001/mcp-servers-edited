@@ -83,7 +83,7 @@ export DASHSCOPE_API_KEY="sk-xxxxxxxxxxxxxxxxxxxxxxxx"
           "command": "uvx",
           "args": [
             "--from",
-            "bailian-imagegen-mcp-edited@latest",
+            "bailian-imagegen-mcp-edited",
             "bailian-mcp-server"
           ],
           "env": {
